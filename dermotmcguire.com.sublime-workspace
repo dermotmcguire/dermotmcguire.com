@@ -1,0 +1,1127 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Yo",
+				"Young"
+			],
+			[
+				"Mel",
+				"Melinda"
+			],
+			[
+				"Pat",
+				"Paterson"
+			],
+			[
+				"Marg",
+				"Margot"
+			],
+			[
+				"Lou",
+				"Louise"
+			],
+			[
+				"O",
+				"O'Callaghan"
+			],
+			[
+				"Mu",
+				"Murcutt"
+			],
+			[
+				"Flo",
+				"Floyd"
+			],
+			[
+				"Y",
+				"Yvonne"
+			],
+			[
+				"Ker",
+				"Kernebone"
+			],
+			[
+				"Mar",
+				"Martiniello"
+			],
+			[
+				"Jon",
+				"Jones"
+			],
+			[
+				"Jo",
+				"Jonathan"
+			],
+			[
+				"G",
+				"Greeno"
+			],
+			[
+				"St",
+				"Stefanie"
+			],
+			[
+				"Ly",
+				"Lydia"
+			],
+			[
+				"Su",
+				"Susan"
+			],
+			[
+				"ins",
+				"inspired"
+			],
+			[
+				"Desig",
+				"Design"
+			],
+			[
+				"You",
+				"You're"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"aper",
+				"apercuitalic"
+			],
+			[
+				"target",
+				"target=〔attribute〕"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"text",
+				"text-decoration: 〔property〕"
+			],
+			[
+				"line",
+				"line-height: 〔property〕"
+			],
+			[
+				"w",
+				"width=〔attribute〕"
+			],
+			[
+				"australia",
+				"australiandesigncentre"
+			],
+			[
+				"br",
+				"clear	br (depr)"
+			],
+			[
+				"padd",
+				"padding: 〔property〕"
+			],
+			[
+				"he",
+				"height=〔attribute〕"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"rest",
+				"restart"
+			],
+			[
+				"opac",
+				"opacity"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"tra",
+				"transformOrigin"
+			],
+			[
+				"opacity",
+				"opacity:0.3"
+			],
+			[
+				"ani",
+				"animate_on"
+			],
+			[
+				"cabi",
+				"cabinetwhole"
+			],
+			[
+				"bakc",
+				"backleftwheel"
+			],
+			[
+				"an",
+				"animate_on"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"co",
+				"colour"
+			],
+			[
+				"backgroud",
+				"background-color"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"id",
+				"id=〔attribute〕"
+			],
+			[
+				"anim",
+				"anim-	animation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${6:direction} ${7:fill-mode};"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"n",
+				"normal"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font-s",
+				"font-style: 〔property〕"
+			],
+			[
+				"Honou",
+				"Honourees"
+			],
+			[
+				"cont",
+				"contribute"
+			],
+			[
+				"Vinc",
+				"Vincent"
+			],
+			[
+				"sma",
+				"smaller"
+			],
+			[
+				"au",
+				"australiandesigncentre"
+			],
+			[
+				"Luka",
+				"Lukasz"
+			],
+			[
+				"tar",
+				"target=〔attribute〕"
+			],
+			[
+				"paddi",
+				"padding: 〔property〕"
+			],
+			[
+				"class",
+				"class=〔attribute〕"
+			],
+			[
+				"href",
+				"href=〔attribute〕"
+			],
+			[
+				"Georg",
+				"Georgia"
+			],
+			[
+				"font-f",
+				"font-family: 〔property〕"
+			],
+			[
+				"practi",
+				"practitioners"
+			],
+			[
+				"discuss",
+				"discuss"
+			],
+			[
+				"style",
+				"style=\"font"
+			],
+			[
+				"tab",
+				"table	Tag"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"mind",
+				"min-width: 〔property〕"
+			],
+			[
+				"sty",
+				"style=〔attribute〕"
+			],
+			[
+				"backgr",
+				"background-color: 〔property〕"
+			],
+			[
+				"wo",
+				"wow	word-wrap"
+			],
+			[
+				"eleme",
+				"elements"
+			],
+			[
+				"nav",
+				"navigate"
+			],
+			[
+				"cle",
+				"cleanClasses"
+			],
+			[
+				"child",
+				"children	.children()"
+			],
+			[
+				"Triple",
+				"TripleViewLayout"
+			],
+			[
+				"ite",
+				"itemSelector"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"youtub",
+				"youtube-urls"
+			],
+			[
+				"bot",
+				"bot	bottom"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"z",
+				"z-in	z-index"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"fi",
+				"figure"
+			],
+			[
+				"dar",
+				"darken($tealish"
+			],
+			[
+				"magni",
+				"magnificPopup"
+			],
+			[
+				"vidyo",
+				"vidyoLightbox"
+			],
+			[
+				"log",
+				"log('This"
+			],
+			[
+				"magn",
+				"magnific"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"Title",
+				"TitleFetcher(data)"
+			],
+			[
+				"rtu",
+				"returnedvideos"
+			],
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"video",
+				"videos"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"norma",
+				"normalize"
+			],
+			[
+				"vide",
+				"_videos-style.scss"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"wi",
+				"williams@gmail"
+			],
+			[
+				"com",
+				"component"
+			],
+			[
+				"hamm",
+				"hammer.min.js"
+			],
+			[
+				"moder",
+				"modernizr.custom.js"
+			],
+			[
+				"cod",
+				"codrops"
+			],
+			[
+				"over",
+				"overflow-x:   (property)"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"discu",
+				"discussionsModal"
+			],
+			[
+				"orig",
+				"original"
+			],
+			[
+				"form_",
+				"form_origin_catcher"
+			],
+			[
+				"disp",
+				"display:none"
+			],
+			[
+				"l",
+				"lorem	Lorem ipsum"
+			],
+			[
+				"L",
+				"Lazyload"
+			],
+			[
+				"scri",
+				"script	Tag"
+			],
+			[
+				"scr",
+				"script	<script>"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"dsic",
+				"discussion-view"
+			],
+			[
+				"exte",
+				"externalURL:CSS	external_url_styles"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"submissio",
+				"submissions_infinite"
+			],
+			[
+				"styl",
+				"stylesheet_directory"
+			],
+			[
+				"styleshee",
+				"stylesheet_directory"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"lazy",
+				"lazyload"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"synta",
+				"Set Syntax: Sass"
+			],
+			[
+				"synt",
+				"Set Syntax: SASS"
+			],
+			[
+				"SCSS",
+				"Set Syntax: SCSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gist o",
+				"Gist: Open Gist"
+			],
+			[
+				"gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"CSScomb",
+				"Sort via CSScomb"
+			],
+			[
+				"pacekage",
+				"Package Control: Install Package"
+			],
+			[
+				"ope",
+				"Gist: Open Gist"
+			],
+			[
+				"open",
+				"Gist: Open Gist"
+			],
+			[
+				"creat",
+				"Gist: Create Private Gist"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: e",
+				"Snippet: external_url_styles"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 493.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/ObjectData/Operations & Management/9. Communications (Object General)/Object Media/Media Releases/2015 Media Releases/Cloth Seeds to Bloom/Object-MediaRelease_ClothFromSeedsToBloom/new-exhibition-cloth-seeds-to-bloom.html",
+		"/Volumes/ObjectData/Creative Programming/6. Programs/8. 2015/2015 CLOTH FINAL/Marketing/Eventbrite Page/cloth_eventbritepage.html",
+		"/Volumes/ObjectData/Creative Programming/6. Programs/8. 2015/2015 CLOTH FINAL/Invitation/Object-Invitation-ClothSeedstoBloom/index.html",
+		"/Users/dermotmcguire/Downloads/Object-eFlierTemplate-9/index.html",
+		"/Users/dermotmcguire/Downloads/Object-eFlierTemplate-7/index.html",
+		"/Users/dermotmcguire/Sites/Repos/fn_images_slideshow/index.html",
+		"/Users/dermotmcguire/Library/Caches/Cleanup At Startup/Transmit/C48186AA-5BC2-40E1-AB27-6132B6583467/.htaccess",
+		"/Volumes/ObjectData/Operations & Management/9. Communications (Object General)/Object Media/Media Releases/2015 Media Releases/Cloth Seeds to Bloom/Object-MediaRelease_ClothFromSeedsToBloom/index.html",
+		"/Users/dermotmcguire/Downloads/Object-eFlierTemplate-7/index copy.html",
+		"/Volumes/ObjectData/Creative Programming/6. Programs/8. 2015/2015 The Gold Club/5. Marketing and Signage/Making Demands/Marketing/Eventbrite Page/eventbrite_makingdemands_v8.html",
+		"/Volumes/ObjectData/Operations & Management/9. Communications (Object General)/Object Media/Media Releases/2015 Media Releases/~ KIt for Media Preview/Media/Object-MediaReleaseDermotv2/australian-design-honours-citations-of-honourees.html",
+		"/Volumes/ObjectData/Operations & Management/9. Communications (Object General)/Object Media/Media Releases/2015 Media Releases/~ KIt for Media Preview/Media/Object-MediaReleaseDermotv2/a-new-home-for-australian-design.html",
+		"/Users/dermotmcguire/Downloads/download (1).svg",
+		"/Users/dermotmcguire/Downloads/download.svg",
+		"/Users/dermotmcguire/Library/Application Support/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/Users/dermotmcguire/Downloads/offsite/2015 Media Releases/~ KIt for Media Preview/Media/Object-MediaReleaseDermotv2/honouring-the-leading-lights-of-australian-design_v3.html",
+		"/Users/dermotmcguire/Downloads/offsite/2015 Media Releases/~ KIt for Media Preview/Media/Object-MediaReleaseDermotv2/what's-happening-at-the-australian-design-centre.html",
+		"/Users/dermotmcguire/Downloads/offsite/2015 Media Releases/~ KIt for Media Preview/Media/Object-MediaReleaseDermotv2/australian-design-honours_v3.html",
+		"/Users/dermotmcguire/Downloads/webfontkit-20150603-214512/stylesheet.css",
+		"/Volumes/ObjectData/Operations & Management/9. Communications (Object General)/Object Media/Media Releases/2015 Media Releases/~ KIt for Media Preview/Media/Object-MediaReleaseDermotv2/honouring-the-leading-lights-of-australian-design_v2.html",
+		"/Volumes/ObjectData/Operations & Management/9. Communications (Object General)/Object Media/Media Releases/2015 Media Releases/~ KIt for Media Preview/Media/Object-MediaReleaseDermotv2/backgrounder-those-architects.html",
+		"/Volumes/ObjectData/Operations & Management/9. Communications (Object General)/Object Media/Media Releases/2015 Media Releases/~ KIt for Media Preview/Media/Object-MediaReleaseDermotv2/backgrounder-interbrand.html",
+		"/Volumes/ObjectData/Operations & Management/9. Communications (Object General)/Object Media/Media Releases/2015 Media Releases/~ KIt for Media Preview/Media/Object-MediaReleaseDermotv2/backgrounder-built.html",
+		"/Volumes/ObjectData/Operations & Management/9. Communications (Object General)/Object Media/Media Releases/2015 Media Releases/~ KIt for Media Preview/Media/Object-MediaReleaseDermotv2/australian-design-honours-list-of-honourees.html",
+		"/Users/dermotmcguire/Library/Caches/Cleanup At Startup/Transmit/9A7D8ED0-E2AD-4800-A5A4-3CB50105AA75/map-widget.tpl",
+		"/Users/dermotmcguire/Library/Caches/Cleanup At Startup/Transmit/FE01583A-5DE7-458A-A11C-608E4BE96B3B/map-widget.tpl",
+		"/Users/dermotmcguire/Library/Caches/Cleanup At Startup/Transmit/F2DB2792-C825-484E-9077-07464072F929/map-widget.tpl",
+		"/Volumes/ObjectData/Operations & Management/9. Communications (Object General)/Object Media/Media Releases/2015 Media Releases/~ KIt for Media Preview/Media/Object-MediaReleaseDermotv2/images/250515--ADC_Opening_Night--Photo_Credit_Vincent_Buret--IMG_0091.jpg",
+		"/Volumes/ObjectData/Operations & Management/9. Communications (Object General)/Object Media/Media Releases/2015 Media Releases/~ KIt for Media Preview/Media/Object-MediaReleaseDermotv2/images/250515--ADC_Opening_Night--Photo_Credit_Vincent_Buret--IMG_0182.jpg",
+		"/Volumes/ObjectData/Operations & Management/9. Communications (Object General)/Object Media/Media Releases/2015 Media Releases/~ KIt for Media Preview/Media/Object-MediaReleaseDermotv2/images/250515--ADC_Opening_Night--Photo_Credit_Vincent_Buret--IMG_0301.jpg",
+		"/Volumes/ObjectData/Operations & Management/9. Communications (Object General)/Object Media/Media Releases/2015 Media Releases/~ KIt for Media Preview/Media/Object-MediaReleaseDermotv2/honouring-the-leading-lights-of-australian-design.html",
+		"/Volumes/ObjectData/Operations & Management/9. Communications (Object General)/Object Media/Media Releases/2015 Media Releases/~ KIt for Media Preview/Media/Object-MediaReleaseDermotv2/backgrounder-lukasz-karluk.html",
+		"/Volumes/ObjectData/Operations & Management/9. Communications (Object General)/Object Media/Media Releases/2015 Media Releases/~ KIt for Media Preview/Media/Object-MediaReleaseDermotv2/images/hero.jpg",
+		"/Volumes/ObjectData/Digital/1. Digital planning & management/2015/2015 object.com.au redevelopment/signup form for website/untitled.html",
+		"/Volumes/ObjectData/Operations & Management/9. Communications (Object General)/Object Media/Media Releases/2015 Media Releases/Opening - Annalyse/Object-MediaReleaseDermotv2/index.html",
+		"/Volumes/ObjectData/Digital/1. Digital planning & management/2015/2015 object.com.au redevelopment/signup form for website/adc_signupform_v2.html",
+		"/Volumes/ObjectData/Creative Programming/6. Programs/8. 2015/2015 Australian Design Honours/5. Marketing and Signage/Designers Gone Wild/Invitation/Digital Version/v2/Object-OpeningInvite-ImageOnly1800pm/index.html",
+		"/Volumes/ObjectData/Digital/7. E-flier/2. Campaign Monitor/2015/50th + Updated Logobanks/Object-eFlierTemplate-6/index.html",
+		"/Volumes/ObjectData/Creative Programming/6. Programs/8. 2015/2015 Australian Design Honours/5. Marketing and Signage/Designers Gone Wild/Invitation/Digital Version/Object-OpeningInvite-ImageAndText/index.html",
+		"/Volumes/ObjectData/Creative Programming/6. Programs/8. 2015/2015 Australian Design Honours/5. Marketing and Signage/Designers Gone Wild/Invitation/Digital Version/v2/Object-OpeningInvite-ImageOnly1730pm/index.html",
+		"/Volumes/ObjectData/Creative Programming/6. Programs/8. 2015/2015 Australian Design Honours/5. Marketing and Signage/Designers Gone Wild/Invitation/Digital Version/Object-OpeningInvite-ImageOnly/index.html",
+		"/Volumes/ObjectData/Creative Programming/6. Programs/8. 2015/2015 Australian Design Honours/5. Marketing and Signage/Designers Gone Wild/Invitation/Digital Version/v2/Object-OpeningInvite-ImageOnly/index.html",
+		"/Users/dermotmcguire/Downloads/CodePen/index.html",
+		"/Users/dermotmcguire/Sites/Repos/Gists/SASS_Mixin_WordWrap.scss",
+		"/Users/dermotmcguire/Library/Application Support/Google/Chrome Canary/Default/Preferences",
+		"/Users/dermotmcguire/Library/Application Support/Google/Chrome/Default/Extensions/iggnaiafdfnjpjanhfndcafhdiampgpb/2.1.4_0/options.html",
+		"/Users/dermotmcguire/Library/Application Support/Google/Chrome/Default/Extensions/iggnaiafdfnjpjanhfndcafhdiampgpb/2.1.4_0/YouTubeCenter.js",
+		"/Users/dermotmcguire/Downloads/CodePen/css/codepen.css",
+		"/Users/dermotmcguire/Downloads/CodePen/css/main.css",
+		"/var/folders/tk/r47f6jb52vs29zyzmlfmdcy40000gn/T/gistfile1",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty S01E04 - M. Night Shaym-Aliens!.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty S01E01 - Pilot.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty S01E02 - Lawnmower Dog.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty S01E03 - Anatomy Park.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty S01E05 - Meeseeks and Destroy.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty S01E06 - Rick Potion #9.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty S01E07 - Raising Gazorpazorp.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty S01E09 - Something Ricked This Way Comes.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty S01E10 - Close Rick-Counters of the Rick Kind.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty S01E11 - Ricksy Business.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty - 01x11 - Ricksy Business.NTb.English.C.orig.Addic7ed.com.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty - 01x10 - Close Rick-Counters of the Rick Kind.NTb.English.C.orig.Addic7ed.com.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty - 01x09 - Something Ricked This Way Comes.PROPER-2HD.English.C.orig.Addic7ed.com.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty - 01x07 - Raising Gazorpazorp.2HD.English.C.orig.Addic7ed.com.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty - 01x06 - Rick Potion #9.2HD.English.C.orig.Addic7ed.com.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty - 01x05 - Meeseeks and Destroy.2HD.English.C.orig.Addic7ed.com.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty - 01x04 - M. Night Shaym-Aliens!.WEB-DL.English.HI.orig.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty - 01x03 - Anatomy Park.KILLERS.English.HI.orig.Addic7ed.com.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/1.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty - 01x02 - Lawnmower Dog.KILLERS.English.HI.orig.Addic7ed.com.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/rick-and-morty/Rick and Morty - 01x01 - Pilot.2HD.English.HI.orig.Addic7ed.com.srt",
+		"/Users/dermotmcguire/Sites/Repos/videogrep/the-social-network/The Social Network.srt",
+		"/Users/dermotmcguire/Library/Logs/pip.log",
+		"/Users/dermotmcguire/.bash_profile",
+		"/var/folders/tk/r47f6jb52vs29zyzmlfmdcy40000gn/T/gistfile1.sass",
+		"/Users/dermotmcguire/Library/Application Support/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/Users/dermotmcguire/Library/Application Support/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/Users/dermotmcguire/Downloads/Dmitry Fadeyev.html",
+		"/Users/dermotmcguire/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dermotmcguire/Library/Application Support/Sublime Text 3/Packages/User/PHP/wordpress_themefile_postthumbnailclass.sublime-snippet",
+		"/untitled",
+		"/Users/dermotmcguire/Library/Application Support/Steam/SteamApps/common/Sid Meier's Civilization V/Civilization V.app/Contents/Home/Assets/UI/FrontEnd/MainMenu.lua",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/app/bower_components/CNAME",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/app/data/youtube-urls.json",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/app/scripts/videos.js",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/package.json",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/Gruntfile.js",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/dist/index.html",
+		"/Users/dermotmcguire/Downloads/TripleViewLayout/js/main.js",
+		"/Users/dermotmcguire/Downloads/CaptionHoverEffects-3/css/component.css",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/dist/scripts/83751c13.main.js",
+		"/Users/dermotmcguire/Downloads/yt_json_codelab.html",
+		"/Users/dermotmcguire/Downloads/CaptionHoverEffects/CaptionHoverEffects/css/component.css",
+		"/Users/dermotmcguire/Downloads/CaptionHoverEffects/CaptionHoverEffects/index.html",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/app/styles/_videos-style.scss",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/app/styles/_component.scss",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/app/data/youtube-urls-test.json",
+		"/Users/dermotmcguire/Downloads/isotope-typeahead-master/example.html",
+		"/Users/dermotmcguire/Downloads/CaptionHoverEffects/CaptionHoverEffects/index4.html",
+		"/Users/dermotmcguire/Library/Caches/Cleanup At Startup/Transmit/9EE0CF8A-76CF-4C13-A7B3-2FFD7D273473/page-creds.php",
+		"/Users/dermotmcguire/Library/Caches/Cleanup At Startup/Transmit/945FFBE0-8C33-4A87-A9B4-D4298E759232/custom-youtube-thumbnail-fetcher.php",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/app/scripts/typeahead.js",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/app/index.html",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/app/data/sample-people.json",
+		"/Users/dermotmcguire/Downloads/isotope-typeahead-master/README.md",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/app/styles/_magnific.scss",
+		"/Users/dermotmcguire/Downloads/isotope-master/examples/filter-sort.html",
+		"/Users/dermotmcguire/Downloads/CaptionHoverEffects-3/index6.html",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/app/scripts/magnific.min.js",
+		"/Users/dermotmcguire/Downloads/TripleViewLayout/index.html",
+		"/Users/dermotmcguire/Downloads/demo/index.html",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/app/styles/_colours.scss",
+		"/Users/dermotmcguire/Library/Caches/Cleanup At Startup/Transmit/E33A9278-1C1F-47CF-A0D9-B486DA8B7A5B/index.php",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/app/scripts/main.js",
+		"/Users/dermotmcguire/Library/Application Support/Sublime Text 3/Packages/Sublime-JSHint/.jshintrc",
+		"/Users/dermotmcguire/Library/Application Support/Sublime Text 3/Packages/Sublime-JSHint/JSHint.sublime-settings",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/app/styles/demo.css",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/app/styles/_typography.scss",
+		"/Users/dermotmcguire/Desktop/_kawilliams.scss",
+		"/Users/dermotmcguire/Desktop/_colours.scss",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/app/styles/_codrops-component.scss",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/app/styles/_kaw-typography.scss",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/app/styles/_kaw-colours.scss",
+		"/Users/dermotmcguire/Desktop/_kaw-colours.scss",
+		"/Users/dermotmcguire/Desktop/index.html",
+		"/Users/dermotmcguire/Sites/Repos/kathleenwilliamsdotnet/app/scripts/main-isotope-typeahead.js",
+		"/Users/dermotmcguire/Downloads/TripleViewLayout/css/normalize.css",
+		"/Users/dermotmcguire/Downloads/TripleViewLayout/css/demo.css"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/dermotmcguire/Sites/Repos/h5a_src_sass/less",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n",
+			"624",
+			"624px",
+			"/images/logobank/",
+			"_",
+			"/logobank/",
+			"othlogobankprincipalfunding",
+			"clothlogobankpartners",
+			"logobank/",
+			"keylinebold",
+			"keylinelight",
+			"spacer",
+			"logos/35322990/",
+			"/images/",
+			"logobank/",
+			"<p>",
+			"strong",
+			"h3",
+			"\");\n",
+			"images/",
+			"painting",
+			"png",
+			"40555e",
+			"http://object.com.au/fonts/",
+			"em",
+			"/images/",
+			"h3",
+			"apercu_bold-webfont",
+			"4",
+			"h3",
+			"singleline",
+			"/images/",
+			"Those Architects",
+			"Interbrand",
+			"Built",
+			"https://cdn.evbuc.com/eventlogos/35322990/v8makingdemandsinvitation",
+			"a hre",
+			"Helvetica Neue",
+			"images/",
+			"font-family: Helvetica, Arial, sans-serif; ",
+			"middle",
+			"Helvetica, Arial, sans-serif",
+			"\"Courier New\", Georgia, \"Times New Roman\", Times, serif",
+			"images/",
+			"top",
+			"/images",
+			"side s",
+			"2.9",
+			"8.8",
+			"2.9",
+			"90",
+			"    height: 2.8em;\n",
+			"8em",
+			"    height: 2.8em;\n",
+			"face side s0",
+			"\n                    ",
+			"<div class=\"photon-shader\"></div>",
+			"    height: 3em;\n",
+			"    width: 9em;\n",
+			"0",
+			"\" ;\"",
+			"\" \"",
+			" style=\"background-color: ",
+			" style=\"background-color: rgba(0, 0, 0, 0.247059);\"",
+			" style=\"background-color: rgba(0, 0, 0, 0.188235);\"",
+			"90",
+			"Y",
+			"5",
+			"2,",
+			"2",
+			"zoom+=2",
+			"2",
+			"scale:0.2,opacity:0.3",
+			"1",
+			"0)",
+			"0",
+			";",
+			"'",
+			",",
+			"cabinetwhole",
+			"restartBtn",
+			"querySelector",
+			"drawer",
+			"6.7",
+			"height: 1em;",
+			".cub-1",
+			"rotateX",
+			"    -webkit-transform: rotateX(-364deg) rotateY(-785deg);\n",
+			"rotateX(-364deg)",
+			"face",
+			" style=\"background-color:",
+			"style=\"background-color: rgba(0, 0, 0, 0.188235);",
+			"face",
+			".face",
+			"colour-",
+			"face",
+			"js/",
+			"js",
+			"utah_tea",
+			"\n",
+			"ftp",
+			"\n",
+			"built",
+			"Built",
+			"</li>",
+			"<li>",
+			"/web/",
+			"fonts/",
+			"apercu-mono",
+			"Georgia",
+			"Shelly",
+			"624",
+			"622",
+			"500",
+			"624",
+			"\n",
+			"h4",
+			"span",
+			" </li>",
+			"<li>",
+			"</a></p>",
+			"<li>",
+			"</li>",
+			"</a></li>",
+			"<li><a",
+			"<a",
+			"</li>",
+			"<li>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"/",
+			"clothkeylinelight",
+			"https://cdn.evbuc.com/eventlogos/35322990/",
+			"<p style=\"margin: 6px 0 13px 0; padding: 0;\">",
+			"../fonts/",
+			"images/",
+			"/images/logobank/",
+			"/images/",
+			"</p>",
+			"<p>",
+			"/",
+			"http://object.com.au/web/fonts/",
+			"Shelley",
+			"'",
+			"the Healthy Living Hub",
+			"data-original",
+			"jQuery",
+			"blank-grey",
+			"'setter'",
+			"singlepostModal",
+			"",
+			"social-intro",
+			"png",
+			"../",
+			"../images/creds/",
+			"#creds_header.header",
+			"video_id",
+			"creds_page_title",
+			"#{\"\\1\"}",
+			"@include \\1",
+			"@mixin \\1\\(\\2\\)\\n{",
+			"@media ",
+			"@media",
+			"@import",
+			"$",
+			".scss",
+			".css",
+			"blue",
+			"green",
+			"http://placehold.it/170x170/",
+			"max-width:170px;max-height:170px;",
+			"http://placehold.it/150x150/",
+			"max-width:150px;max-height:150px;",
+			"photo-tile-2x3",
+			"max-width:110px;max-height:110px;",
+			"",
+			"max-width:110px;max-height:110px;",
+			"blue",
+			"green",
+			".scene4no3d",
+			".scene3no3d",
+			".scene2no3d",
+			".scene2no",
+			"#scene4no",
+			"100%",
+			"target=\"_blank\"",
+			"0.7",
+			"/",
+			"dbs174880_FaustProdn",
+			"$",
+			"jQuery",
+			".filter",
+			".filter-categories",
+			".filterable_portfolio",
+			"$wp_query",
+			"css",
+			".fadeOut(0, 2000);",
+			".pause().fadeIn(0.5, 2000);",
+			"",
+			"intermission",
+			"flicker"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 25.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "dermotmcguire.com.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lor",
+				"Lorem ipsum dolor sit amet, consectetur adipisicin"
+			],
+			[
+				"confirm",
+				"~/Library/Caches/Cleanup At Startup/Transmit/E49C37B7-E328-43B3-8429-FECC2A71E9D2/page-discussion-confirm.php"
+			],
+			[
+				"",
+				"assets/js/_main.js"
+			],
+			[
+				"li",
+				"Lorem ipsum dolor sit amet, consectetur adipisicin"
+			],
+			[
+				"lis",
+				"Lorem ipsum dolor sit amet, consectetur adipisicin"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
