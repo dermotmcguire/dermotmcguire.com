@@ -12,7 +12,8 @@
     <title>dermotmcguire.com</title>
     <meta name="description" content="The personal website of Dermot McGuire">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="assets/css/tufte.css" />
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/css/bootstrap-theme.min.css" />
     <link rel="stylesheet" href="assets/css/dermotmcguire.com.css" />
     <!-- <link rel="stylesheet" href="css/normalize.min.css"> -->
     <!-- <link rel="stylesheet" href="css/main.css"> -->
@@ -20,6 +21,14 @@
     <style type="text/css">
     img {
         mix-blend-mode: multiply;
+    }
+
+    .typewriter {
+        white-space: pre-wrap;
+    }
+
+    .caret {
+        background: #777;
     }
     </style>
 </head>
@@ -29,27 +38,59 @@
       <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
     <article>
-        <h1>Hello,</h1>
-        <p class="subtitle">My name is Dermot McGuire</p>
         <section>
-            <p>Tufte CSS provides tools to style web articles using the ideas demonstrated by Edward Tufte’s books and handouts. Tufte’s style is known for its simplicity, extensive use of sidenotes, tight integration of graphics with text, and carefully chosen typography.</p>
-            <p>The idea is essentially cribbed wholesale from <a href="https://tufte-latex.github.io/tufte-latex/">Tufte-<span class="latex">L<sup>a</sup>T<sub>e</sub>X</span></a> and <a href="http://rmarkdown.rstudio.com/tufte_handout_format.html">R Markdown’s Tufte Handout format</a>
-                <label for="sn-tufte-handout" class="margin-toggle sidenote-number"></label>
-                <input type="checkbox" id="sn-tufte-handout" class="margin-toggle" />.
-                <span class="sidenote">
-          This page was in fact originally an adaptation of the <a href="http://rmarkdown.rstudio.com/examples/tufte-handout.pdf">Tufte Handout Example</a> PDF.
-        </span> I give hearty thanks to all the people who have contributed to those projects.</p>
-            <p>If you see anything that Tufte CSS could improve, we welcome your contribution in the form of an issue or pull request on the GitHub project: <a href="https://github.com/daveliepmann/tufte-css">tufte-css</a>. Please note the <a href="https://github.com/daveliepmann/tufte-css#contributing">contribution guidelines</a>.</p>
-            <p>Finally, a reminder about the goal of this project. The web is not print. Webpages are not books. Therefore, the goal of Tufte CSS is not to say “websites should look like this interpretation of Tufte’s books” but rather “here are some techniques Tufte developed that we’ve found useful in print; maybe you can find a way to make them useful on the web”. Tufte CSS is merely a sketch of one way to implement this particular set of ideas. It should be a starting point, not a design goal, because any project should present their information as best suits their particular circumstances.</p>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-5 col-md-offset-1"><span id="typewriter" class="typewriter"></span><span class="caret">&nbsp;</span></div>
+                </div>
         </section>
-
     </article>
     <!-- scripts -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script>
     window.jQuery || document.write('<script src="assets/js/vendor/jquery-1.11.2.min.js"><\/script>')
     </script>
-    <!-- <script src="js/main.js"></script> -->
+    <script type="text/javascript" src="assets/js/vendor/typewriter-bundle.min.js"></script>
+    <script type="text/javascript" src="assets/js/vendor/bootstrap.min.js"></script>
+    <script type="text/javascript">
+    var typewriter = require('typewriter');
+
+    var twSpan = document.getElementById('typewriter');
+
+    var tw = typewriter(twSpan).withAccuracy(90)
+        .withMinimumSpeed(18)
+        .withMaximumSpeed(38)
+        .build();
+
+
+    tw.put('<div class="page-header"><h1>Hello.</h1></div>')
+        .waitRange(1500, 1500)
+        .put('<p>')
+        .type('One day, this page will contain information about')
+        .put('</p>')
+        .put('<div class="panel panel-default"><div class="panel-body"><h4>$ Dermot McGuire</h4></div></div>')
+        .waitRange(1000, 1500)
+        .put('<p class="btn-warning">')
+        .type('But today is not that day.')
+        .waitRange(500, 500)
+        .type('.')
+        .waitRange(500, 500)
+        .type('.')
+        .waitRange(500, 500)
+        .type('.')
+        .waitRange(500, 500)
+        .type('.')
+        .waitRange(500, 500)
+        .type('.')
+        .waitRange(500, 500)
+        .type('.')
+        .waitRange(1000, 1500)
+        .put('</p><p>&nbsp;</p><p>')
+        .type('Until then, please get in touch:')
+        .waitRange(1000, 1500)
+        .put('</p>')
+        .put('<p><address><abbr class="btn-primary" title="Phone">Phone:</abbr> <a href="tel:0417533606">0417 533 606</a></address><address><abbr class="btn-primary" title="Email">Email:</abbr> <a href="mailto:dermotmcguire@gmail.com">dermotmcguire@gmail.com</a></address><address><abbr class="btn-primary" title="Twitter">Twitter:</abbr> <a href="https://twitter.com/commuter_dirge">@commuter_dirge</a></address><address><abbr class="btn-primary" title="LinkedIn">LinkedIn:</abbr> <a href="https://au.linkedin.com/in/dermotmcguire">https://au.linkedin.com/in/dermotmcguire</a></address><address>49 Constitution Rd<br>Dulwich Hill NSW 2203</address></p>')
+    </script>
     <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
     <script>
     (function(b, o, i, l, e, r) {
