@@ -66,8 +66,9 @@
     tw.put('<div class="page-header"><h1>Hello.</h1></div>')
         .waitRange(1500, 1500)
         .put('<p>')
-        .type('One day, this page will contain information about')
+        .type('One day, this page will contain information about:')
         .put('</p>')
+        .waitRange(500, 500)
         .put('<div class="panel panel-default"><div class="panel-body"><h4>$ Dermot McGuire</h4></div></div>')
         .waitRange(1000, 1500)
         .put('<p class="btn-warning">')
@@ -89,9 +90,8 @@
         .type('Until then, please get in touch:')
         .waitRange(1000, 1500)
         .put('</p>')
-        .put('<p><address><abbr class="btn-primary" title="Phone">Phone:</abbr> <a href="tel:0417533606">0417 533 606</a></address><address><abbr class="btn-primary" title="Email">Email:</abbr> <a href="mailto:dermotmcguire@gmail.com">dermotmcguire@gmail.com</a></address><address><abbr class="btn-primary" title="Twitter">Twitter:</abbr> <a href="https://twitter.com/commuter_dirge">@commuter_dirge</a></address><address><abbr class="btn-primary" title="LinkedIn">LinkedIn:</abbr> <a href="https://au.linkedin.com/in/dermotmcguire">https://au.linkedin.com/in/dermotmcguire</a></address><address>49 Constitution Rd<br>Dulwich Hill NSW 2203</address></p>')
+        .put('<p><address><abbr class="btn-primary" title="Phone">Phone:</abbr> <a href="tel:0417533606">0417 533 606</a></address><address><abbr class="btn-primary" title="Email">Email:</abbr> <a href="mailto:dermotmcguire@gmail.com">dermotmcguire@gmail.com</a></address><address><abbr class="btn-primary" title="Twitter">Twitter:</abbr> <a href="https://twitter.com/commuter_dirge">@commuter_dirge</a></address><address><abbr class="btn-primary" title="LinkedIn">LinkedIn:</abbr> <a href="https://au.linkedin.com/in/dermotmcguire">https://au.linkedin.com/in/dermotmcguire</a></address><address><abbr class="btn-primary" title="Street">Street:</abbr> 49 Constitution Rd, Dulwich Hill NSW 2203</address></p>')
     </script>
-    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
     <script>
     (function(b, o, i, l, e, r) {
         b.GoogleAnalyticsObject = l;
